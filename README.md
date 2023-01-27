@@ -7,3 +7,9 @@
 - [ ] Mampu melakukan proteksi terhadap suatu page yang diperlukan untuk login terlebih dahulu (Monolith)
 - [ ] Mampu melakukan proteksi terhadap suatu endpoint dan melakukan pengecekan terhadap token (RESTful API)
 - [ ] Push ke git untuk di-review
+
+# Persiapan 
+- clone git https://github.com/Kmassidik/Binar-Challenge-Chapter-7.git
+- npm install
+- buat .env yang berisikan NUMBER, dan Secretkey
+- jalankan dengan NPM Start
